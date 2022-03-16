@@ -12,5 +12,6 @@ In this project, a Hash Table is designed. Furthermore, the perofromance of the 
     ├── Chaining.java
     ├── Open_Addressing.java
     └── main.java
+├── README.md
 └── Project Description.pdf
 ```
