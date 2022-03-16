@@ -6,6 +6,7 @@ In this project, an algorithm is designed to predict if Biden has chance to win 
 1. People who will definitely vote for Trump.
 2. People who will definitely vote for Biden.
 3. People who has not decided whom to vote for.
+
 In this election, the one who wins more people in the same state will win the number of votes that equal to the number of delegates for that state.
 
 ## **Project 1** - Building a Hash Table
@@ -19,5 +20,5 @@ In this project, 3 algorithms are designed and they are:
 
 ## **Project 3** - Graph Algorithms Designs
 In this project, 2 algorithms related to graph are designed and they are:
-- Ford-Fulkerson Algorithm
-- Bellman-Ford Algorithm
+- **Ford-Fulkerson Algorithm:** This is implemented to calculate the Maximum Flow of a directed weighted graph.
+- **Bellman-Ford Algorithm:** This is implemented to finding the shortest path in a graph where edges can have negative weights.
