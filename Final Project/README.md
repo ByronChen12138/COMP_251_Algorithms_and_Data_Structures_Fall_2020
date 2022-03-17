@@ -10,6 +10,8 @@ In this algorithm, the number of three kinds of people are given, they are:
 
 In this election, the one who wins more people in the same state will win the number of votes that equal to the number of delegates for that state.
 
+**Dynamic Programming** concepts was used to solve this problem by calculating and storing the number of people needed to convince in each state.
+
 
 ## Project Structure
 
